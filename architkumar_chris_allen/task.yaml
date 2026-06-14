@@ -1,0 +1,19 @@
+task_id: koa-kai-oc6-time-trial-2026
+
+difficulty: hard
+modalities:
+  - text
+  - image
+  - document
+l1: operations_qa
+l2: document_receipt_processing
+task_type: multimodal_reconciliation
+
+required_apis:
+  - airtable
+  - google-calendar
+
+distractor_apis:
+  - notion
+  - strava
+  - myfitnesspal

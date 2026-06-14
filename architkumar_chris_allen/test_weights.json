@@ -1,0 +1,16 @@
+{
+    "test_behavioral_airtable_crew_records_queried": 3,
+    "test_behavioral_airtable_equipment_record_updated": 5,
+    "test_behavioral_google_calendar_events_queried": 3,
+    "test_behavioral_airtable_races_queried": 1,
+    "test_outcome_airtable_marcus_reyes_lapsed": 5,
+    "test_outcome_airtable_equipment_total_quote_430": 3,
+    "test_outcome_airtable_equipment_status_pending_approval": 3,
+    "test_outcome_google_calendar_time_trial_start_time": 3,
+    "test_outcome_google_calendar_practice_event_retrieved": 1,
+    "test_outcome_airtable_marcus_reyes_season_2026": 1,
+    "test_negative_weight_notion_distractor": -3,
+    "test_negative_weight_strava_distractor": -5,
+    "test_negative_weight_myfitnesspal_distractor": -3,
+    "test_negative_weight_airtable_equipment_autopaid": -5
+}

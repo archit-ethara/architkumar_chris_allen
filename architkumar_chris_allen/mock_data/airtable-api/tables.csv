@@ -1,0 +1,5 @@
+baseId,id,name,primaryFieldId,records_csv
+appKoaKai2026,tblCrew,Crew Roster,fldCrewName00001,records_crew.csv
+appKoaKai2026,tblEquipment,Equipment Log,fldEquipName0001,records_equipment.csv
+appKoaKai2026,tblRaces,Race Schedule,fldRaceName00001,records_races.csv
+appPersonalNotes01,tblPaddlingNotes,Paddling Notes,fldNoteTitle0001,

@@ -1,0 +1,11 @@
+exercise_id,date,exercise_type_id,exercise_name,duration_minutes,calories_burned,notes
+ex-001,2026-10-02,41,Rowing (OC6),52,618,Dawn patrol Ala Wai
+ex-002,2026-10-01,41,Rowing (OC6),96,1142,Wednesday long paddle
+ex-003,2026-02-24,41,Rowing (OC6),73,869,Headwind sets
+ex-004,2026-01-26,41,Rowing (OC6),56,667,Monday drills
+ex-005,2026-01-01,41,Rowing (OC6),48,571,New year paddle
+ex-006,2025-12-15,41,Rowing (OC6),105,1249,December endurance
+ex-007,2025-12-01,41,Rowing (OC6),52,618,Monday practice
+ex-008,2025-11-30,10,Swimming,42,460,Ala Moana open water
+ex-009,2025-10-19,41,Rowing (OC6),33,393,Cool-down post Kaiwi
+ex-010,2025-10-18,41,Rowing (OC6),120,1428,Kaiwi Channel Relay Leg 3

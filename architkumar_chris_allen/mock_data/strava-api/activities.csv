@@ -1,0 +1,19 @@
+id,name,type,distance,moving_time,elapsed_time,total_elevation_gain,average_speed,start_date,kudos_count,segment_id
+11401023,Dawn Patrol – Ala Wai,Rowing,8200,3120,3300,0,2.63,2026-10-02T05:50:00Z,7,
+11389045,Friday OC6 Practice,Rowing,9500,3600,3780,0,2.64,2026-10-01T05:45:00Z,5,
+11376201,Wednesday Long Paddle,Rowing,14800,5760,6000,0,2.57,2026-10-01T06:00:00Z,12,
+11203841,Club Training – Headwind Sets,Rowing,11200,4380,4500,0,2.56,2026-02-24T05:50:00Z,9,
+11094527,Saturday Long Paddle,Rowing,14200,5520,5760,0,2.57,2026-02-14T06:15:00Z,14,
+10987341,Monday OC6 Drills,Rowing,8800,3360,3540,0,2.62,2026-01-26T05:45:00Z,6,
+10872904,New Year Dawn Paddle,Rowing,7600,2880,3060,0,2.64,2026-01-01T06:00:00Z,18,
+10741239,December Endurance Set,Rowing,16200,6300,6600,0,2.57,2025-12-15T05:50:00Z,8,
+10634881,Monday OC6 Practice,Rowing,8200,3120,3300,0,2.63,2025-12-01T05:45:00Z,6,
+10521047,Post-Race Kaiwi Cool-Down,Rowing,5200,1980,2100,0,2.63,2025-10-19T10:00:00Z,11,
+10418732,Kaiwi Channel Relay – Leg 3,Rowing,18700,7200,7440,0,2.6,2025-10-18T09:30:00Z,34,seg-kaiwi-leg3
+10329045,Crew Selection Time Trial 2025,Rowing,6000,2340,2400,0,2.56,2025-10-05T06:00:00Z,16,seg-alawai-tt
+10198823,Ala Moana Beach Open Water Swim,Swim,1800,2520,2640,0,0.71,2025-11-30T06:30:00Z,4,
+10087412,Keehi Lagoon Swim,Swim,2200,3120,3240,0,0.71,2025-11-16T06:15:00Z,3,
+9934728,Open Water Swim – Ala Moana,Swim,1500,2100,2220,0,0.71,2025-11-08T07:00:00Z,2,
+9813041,Recovery Swim,Swim,1000,1380,1440,0,0.72,2025-10-25T06:00:00Z,2,
+9721893,Sunrise Swim – Waikiki,Swim,2000,2820,2940,0,0.71,2026-01-12T06:30:00Z,5,
+9614027,Keehi Lagoon Long Swim,Swim,3000,4260,4380,0,0.7,2025-12-27T06:30:00Z,6,

@@ -1,0 +1,4 @@
+id,summary,description,time_zone,access_role,primary,color_id
+cal-personal,Chris Allen,Personal calendar,Pacific/Honolulu,owner,True,1
+cal-koakai,Koa Kai OC6 Masters Men,Club race and practice schedule,Pacific/Honolulu,owner,False,9
+cal-palmside,Palmside Resort – GM,Hotel operations and appointments,Pacific/Honolulu,owner,False,11

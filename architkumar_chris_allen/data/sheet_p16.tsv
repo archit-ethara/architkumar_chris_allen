@@ -1,0 +1,19 @@
+Date	Room Type	Published BAR Rate (USD)	Yield-Managed Rate (USD)	Occupancy Forecast (%)	Restrictions	Channel
+Oct 5, 2026	Standard King	329	329	76	None	All
+Oct 5, 2026	Ocean View King	419	419	76	None	All
+Oct 5, 2026	Suite	629	629	76	None	All
+Oct 10, 2026	Standard King	329	349	82	None	All
+Oct 10, 2026	Ocean View King	419	449	82	None	All
+Oct 10, 2026	Suite	629	689	82	None	All
+Oct 11, 2026	Standard King	329	379	88	Min 2 nights	All
+Oct 11, 2026	Ocean View King	419	489	88	Min 2 nights	All
+Oct 25, 2026	Standard King	329	409	94	Min 2 nights	Direct only
+Oct 25, 2026	Ocean View King	419	519	94	Min 2 nights	Direct only
+Oct 25, 2026	Suite	629	759	94	Min 2 nights	Direct only
+Nov 15, 2026	Standard King	329	339	79	None	All
+Nov 15, 2026	Ocean View King	419	429	79	None	All
+Nov 22, 2026	Standard King	329	329	74	None	All
+Nov 22, 2026	Ocean View King	419	419	74	None	All
+Dec 12, 2026	Standard King	329	359	85	None	All
+Dec 12, 2026	Ocean View King	419	459	85	None	All
+Dec 12, 2026	Suite	629	699	85	None	All

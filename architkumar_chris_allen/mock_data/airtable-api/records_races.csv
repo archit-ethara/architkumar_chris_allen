@@ -1,0 +1,9 @@
+id,createdTime,EventName,EventDate,EventTime,Location,EntryStatus,Season,Notes
+rec-race-001,2026-01-15T10:00:00.000Z,Koa Kai Time Trial - Crew Selection,2026-10-03,06:00,"Ala Wai Canal, Honolulu",confirmed,2026,Masters Men crew selection for Kaiwi Channel Relay. 6 AM sharp.
+rec-race-002,2026-01-15T10:05:00.000Z,Windward District Championships,2026-10-24,07:30,"Kailua Beach, Oahu",confirmed,2026,OC6 Masters Men division. Entry confirmed.
+rec-race-003,2025-10-01T10:00:00.000Z,Koa Kai Time Trial - Crew Selection,2025-10-05,06:00,"Ala Wai Canal, Honolulu",confirmed,2025,2025 Masters Men crew selection.
+rec-race-004,2025-01-10T10:00:00.000Z,Windward District Championships,2025-10-25,07:30,"Kailua Beach, Oahu",confirmed,2025,2025 season.
+rec-race-005,2026-01-15T10:10:00.000Z,Koa Kai Practice - Monday,2026-10-03,05:00,"Ala Wai Canal, Honolulu",confirmed,2026,Regular Monday morning club paddle. 05:00-06:00.
+rec-race-006,2026-01-15T10:15:00.000Z,Kaiwi Channel Relay,2026-10-17,07:00,Kaiwi Channel,confirmed,2026,
+rec-race-007,2026-01-15T10:20:00.000Z,Diamond Head Offshore Race,2026-11-08,08:00,"Diamond Head, Honolulu",pending,2026,
+rec-race-008,2026-01-15T10:25:00.000Z,Moloka'i Hoe OC6,2026-10-11,07:30,Molokai Channel,confirmed,2026,

@@ -1,0 +1,7 @@
+event_id,email,display_name,response_status,optional,organizer
+evt-001,c.allen@gmail.com,Chris Allen,accepted,False,True
+evt-001,koakai.schedule@gmail.com,Koa Kai Schedule,accepted,False,False
+evt-002,c.allen@palmside-honolulu.com,Chris Allen,accepted,False,False
+evt-002,peggy.thornton@palmside-corp.com,Peggy Thornton,accepted,False,True
+evt-009,c.allen@gmail.com,Chris Allen,accepted,False,False
+evt-010,c.allen@palmside-honolulu.com,Chris Allen,accepted,False,True
